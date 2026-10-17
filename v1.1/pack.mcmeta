@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 34,
+ "min_format": 1,
+  "max_format": 1000,
+  "supported_formats": [1, 1000],
+    "description": {
+      "text": "Plays the wither spawn sound when someone dies like on unstable smp.§7 Made by Frogman34000",
+      "color": "#3700b8"
+    }
+  }
+}
