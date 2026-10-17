@@ -1,0 +1,12 @@
+{
+  "entity.player.death": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "random/unstable_death_sound",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  }
+}
